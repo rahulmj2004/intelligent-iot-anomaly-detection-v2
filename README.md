@@ -25,13 +25,40 @@
 ![Repo size](https://img.shields.io/github/repo-size/rahulmj2004/intelligent-iot-anomaly-detection-v2?style=flat-square&color=2EE6A6)
 
 <p>
+  <a href="#-meet-the-developers">Developers</a> •
   <a href="#-overview">Overview</a> •
   <a href="#-key-features">Features</a> •
   <a href="#%EF%B8%8F-system-architecture">Architecture</a> •
   <a href="#-results">Results</a> •
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-authors">Authors</a>
+  <a href="#-getting-started">Getting Started</a>
 </p>
+
+</div>
+
+<a id="-meet-the-developers"></a>
+<div align="center">
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="34" align="center"/> Meet the Developers</h2>
+
+<table>
+<tr>
+<td align="center" width="200">
+<a href="https://github.com/rahulmj2004"><img src="https://github.com/rahulmj2004.png?size=120" width="100" style="border-radius:50%" alt="Rahul M J"/></a><br/>
+<b>Rahul M J</b><br/><br/>
+<a href="https://github.com/rahulmj2004"><img src="https://img.shields.io/badge/GitHub-rahulmj2004-181717?style=flat-square&logo=github"/></a>
+</td>
+<td align="center" width="200">
+<a href="https://github.com/Noel-Reji"><img src="https://github.com/Noel-Reji.png?size=120" width="100" style="border-radius:50%" alt="Noel Reji"/></a><br/>
+<b>Noel Reji</b><br/><br/>
+<a href="https://github.com/Noel-Reji"><img src="https://img.shields.io/badge/GitHub-Noel--Reji-181717?style=flat-square&logo=github"/></a>
+</td>
+<td align="center" width="200">
+<a href="https://github.com/Rasinjohn4444"><img src="https://github.com/Rasinjohn4444.png?size=120" width="100" style="border-radius:50%" alt="Rasin John"/></a><br/>
+<b>Rasin John</b><br/><br/>
+<a href="https://github.com/Rasinjohn4444"><img src="https://img.shields.io/badge/GitHub-Rasinjohn4444-181717?style=flat-square&logo=github"/></a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -344,29 +371,7 @@ Contributions, issues and feature requests are welcome!
 3. Commit your changes: `git commit -m "Add amazing feature"`
 4. Push the branch and open a Pull Request
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="34" align="center"/> Authors
-
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="200">
-<a href="https://github.com/rahulmj2004"><img src="https://github.com/rahulmj2004.png?size=120" width="100" style="border-radius:50%" alt="Rahul M J"/></a><br/>
-<b>Rahul M J</b><br/><br/>
-<a href="https://github.com/rahulmj2004"><img src="https://img.shields.io/badge/GitHub-rahulmj2004-181717?style=flat-square&logo=github"/></a>
-</td>
-<td align="center" width="200">
-<a href="https://github.com/Noel-Reji"><img src="https://github.com/Noel-Reji.png?size=120" width="100" style="border-radius:50%" alt="Noel Reji"/></a><br/>
-<b>Noel Reji</b><br/><br/>
-<a href="https://github.com/Noel-Reji"><img src="https://img.shields.io/badge/GitHub-Noel--Reji-181717?style=flat-square&logo=github"/></a>
-</td>
-<td align="center" width="200">
-<a href="https://github.com/Rasinjohn4444"><img src="https://github.com/Rasinjohn4444.png?size=120" width="100" style="border-radius:50%" alt="Rasin John"/></a><br/>
-<b>Rasin John</b><br/><br/>
-<a href="https://github.com/Rasinjohn4444"><img src="https://img.shields.io/badge/GitHub-Rasinjohn4444-181717?style=flat-square&logo=github"/></a>
-</td>
-</tr>
-</table>
 
 <br/>
 
